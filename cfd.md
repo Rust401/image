@@ -1,11 +1,5 @@
 # Computer Network(2018-2019Spring_Summer)HW1
-```shell
-Student Name:   Zhaodong Hu
-Student ID  :   21714069
-Major       :   Environmental Engineering
-Email       :   zhaodonghu94@zju.edu.cn
-phone       :   15700080428
-```
+
 (1)
 In network use the 1000 instead of 1024  
 $(7*10^9*8bit)/(150*10^6bit/s)=5.6km$
